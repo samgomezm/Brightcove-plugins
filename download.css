@@ -1,1 +1,24 @@
-
+/* * The body style is just for the
+ * background color of the codepen.
+ * Do not include in your code.
+ */
+body {
+  background-color: #111;
+  color: #fff;
+}
+/*
+ * Styles essential to the sample
+ * are below
+ */
+.video-js {
+  height: 344px;
+  width: 610px;
+}
+.downloadStyle {
+  order: 9;
+  -webkit-box-ordinal-group: 9;
+  -moz-box-ordinal-group: 9;
+  -webkit-order: 9;
+  -ms-flex-order: 9;
+  padding-top: 7px !important;
+}
